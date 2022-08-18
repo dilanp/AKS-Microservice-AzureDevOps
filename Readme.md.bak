@@ -1,0 +1,6 @@
+#A microservice deployed to AKS using Azure DevOps
+- Create a blank solution named "Shopping".
+
+##Shopping.Client microservice
+- Add a new ASP.Net Core Web App (v6.0) called "Shopping.Client" to the solution.
+
